@@ -1,4 +1,4 @@
-👋 Hey there! I'm Abid Abdul Gafoor, all the way from London, UK. 🇬🇧 I'm a tech enthusiast who's more about developing and solving complex challenges than anything else. 💡🔨
+👋 Hey there! I'm Abid Abdul Gafoor, from London, UK. 🇬🇧 I'm a tech enthusiast who's more about developing and solving complex challenges than anything else. 💡🔨
 
 - 🔭 I’m currently working on a variety of projects, ranging from AI-driven web applications to innovative telemedicine solutions.
 - 🌱 I’m currently learning more about advanced Flutter techniques and diving deeper into the world of Python.
