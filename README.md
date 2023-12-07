@@ -8,7 +8,7 @@
 - 📫 How to reach me: abdulgafoorabid@gmail.com
 - ⚡ Fun fact: When I'm not coding, I love exploring the outdoors, hiking, teaching and learning more about religions.
 
-Currently, I'm working as a Cybersecurity Consultant at PwC UK. While cybersecurity isn't my first love, it's brought a ton of interesting puzzles my way. 🕵️‍♂️💻 However, my real passion lies in coding and creating. I absolutely love Flutter, Dart, and Python - they're my go-to tools for bringing ideas to life! 📱👨‍💻
+Currently, I recently worked for around 3 years as a Cybersecurity Consultant at PwC UK. While cybersecurity isn't my first love, it's brought a ton of interesting puzzles my way. 🕵️‍♂️💻 However, my real passion lies in coding and creating. I absolutely love Flutter, Dart, and Python - they're my go-to tools for bringing ideas to life! 📱👨‍💻
 
 I've got a knack for diving into complex problems and emerging with innovative solutions. Whether it's developing telemedicine apps during COVID-19 or crafting interactive robot applications for hospitals, I'm all about making tech work for people. 🏥🤖
 
