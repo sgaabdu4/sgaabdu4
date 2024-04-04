@@ -14,7 +14,7 @@ I've got a knack for diving into complex problems and emerging with innovative s
 
 Good news! I've completed my Masters in Cybersecurity at Cardiff University. 🎓 It's been an amazing journey, but I'm glad to be focusing more on what I love most - coding and problem-solving.
 
-Outside of work, I'm an avid volunteer, contributing to PwC's CSR Committee and the Muslim Network. Here, I blend my love for technology with community service, automating stuff (because it's fun!) and designing user-friendly apps. 🌍❤️
+Outside of work, I'm an avid volunteer, contributing to CSR Committee and the Muslim Network. Here, I blend my love for technology with community service, automating stuff (because it's fun!) and designing user-friendly apps. 🌍❤️
 
 I'm always on the lookout for the next intriguing project or a friendly chat about the latest in tech. If you're into creating innovative solutions and tackling tech challenges, let's connect! 🤝
 
