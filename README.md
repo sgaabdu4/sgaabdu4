@@ -8,9 +8,9 @@ I'm a tech enthusiast who's interested in developing and solving complex challen
 - 📫 How to reach me: abdulgafoorabid@gmail.com
 - ⚡ Fun fact: When I'm not coding, I love exploring the outdoors, hiking, teaching and learning more about religions.
 
-I recently worked for around 3 years as a Cybersecurity Consultant at PwC UK. While cybersecurity isn't my first love, it's brought a ton of interesting puzzles my way. 🕵️‍♂️💻 However, my real passion lies in coding and creating. I absolutely love Flutter, Dart, and Python - they're my go-to tools for bringing ideas to life! 📱👨‍💻
+I recently worked for around 3 1/2 years as a Cybersecurity Consultant at PwC UK. While cybersecurity isn't my first love, it's brought a ton of interesting puzzles my way. 🕵️‍♂️💻 However, my real passion lies in coding and creating. I absolutely love Flutter, Dart, and Python - they're my go-to tools for bringing ideas to life! 📱👨‍💻
 
-Good news! I've started a new role as a Flutter Developer at Greggs, diving even deeper into my passion for mobile development and innovative coding solutions. After 3 years at PwC, I'm thrilled to be focusing full-time on what I love most - crafting code and creating value in every line. 🥖📲
+I'm now a Flutter Developer at Greggs, diving even deeper into my passion for mobile development and innovative coding solutions. After 3 years at PwC, I'm thrilled to be focusing full-time on what I love most - crafting code and creating value in every line. 🥖📲
 
 I've got a knack for diving into complex problems and emerging with innovative solutions. Whether it's developing telemedicine apps during COVID-19 or crafting interactive robot applications for hospitals, I'm all about making tech work for people. 🏥🤖
 
