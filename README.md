@@ -1,4 +1,4 @@
-Hey, I'm Abid. I'm a builder who loves solving tricky problems with code. My toolkit is mostly Flutter, Dart, and Python.
+Hey, I'm Abid. I'm a builder who loves solving tricky problems with code. My latest open-source project, **vault_storage**, is a secure, all-in-one storage solution for Flutter that simplifies life for developers. My toolkit is mostly Flutter, Typescript, and Python.
 
 By day, I'm a Senior Flutter Developer at Greggs (yes, that Greggs!). Before this, I spent about 3.5 years in the cybersecurity world at PwC, which was a great learning experience but ultimately taught me that I'd rather be building things than breaking them.
 
