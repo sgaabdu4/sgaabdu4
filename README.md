@@ -1,13 +1,9 @@
-Hey, I'm Abid. I'm a builder who loves solving tricky problems with code. I create open-source tools like vault_storage to simplify life for developers. My toolkit is mostly Flutter, Typescript, and Python.
+# Hi, I'm Abid 👋
 
-By day, I'm a Senior Mobile Engineer at Hedgehog Lab, where I get to build high-quality products for a variety of clients. Before this, I was a Senior Flutter Developer at Greggs, working on their in-store POS and back-office apps. And before that, I spent about 3.5 years in cybersecurity at PwC, which taught me I'd rather be building things than breaking them.
+I'm a software engineer and founder building products across mobile, AI and the web.
 
-What I'm working on: I'm always tinkering. My main personal project, SmartMum, is a smart pregnancy monitoring solution. I'm incredibly proud that it was recently selected to be part of the UNFPA Equity 2030 Alliance. I'm also always diving deeper into advanced Flutter and Python.
+I work at Hedgehog Lab as a Senior Mobile & Agentic Engineer and lead [Afenso](https://afenso.com), where I build technology across healthcare, fitness and productivity.
 
-What I'm looking for: I'm open to collaborating on any project that's genuinely challenging, especially if it involves large-scale apps or cloud tech. I'm driven by the idea of turning code into a force for good, what I like to call "digital Sadaqah."
+My main tools are Flutter, TypeScript, Python, Appwrite and GCP. I also create open-source developer tools, including [vault_storage](https://github.com/sgaabdu4/vault_storage) and the [Appwrite Operator MCP](https://github.com/sgaabdu4/appwrite-operator).
 
-Ask me about: Flutter, Dart, Python, or my journey from cybersecurity to mobile dev.
-
-Fun fact: When I'm not coding, you can find me hiking, teaching, or learning more about theology.
-
-Get in touch: abdulgafoorabid@gmail.com
+[Portfolio](https://abidgafoor.com) · [Writing](https://medium.com/@abdulgafoorabid) · [LinkedIn](https://www.linkedin.com/in/abidabdulgafoor/)
