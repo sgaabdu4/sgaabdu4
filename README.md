@@ -1,12 +1,12 @@
 # Hi, I'm Abid 👋
 
-I'm a Forward Deployed Engineer and Senior Manager at PwC UK, building with AI after years in mobile engineering and cybersecurity.
+I'm a Forward Deployed Engineer and Senior Manager at PwC UK. I build with AI, after spending years in mobile engineering and cybersecurity.
 
-I built an Appwrite MCP wrapper that helped inspire Appwrite's MCP Server 2.0. Still a bit surreal seeing something I made turn up in an official release. 😭
+I made an Appwrite MCP wrapper because my coding agents had hundreds of tools to deal with. I got it down to four, and the approach helped inspire Appwrite's MCP Server 2.0. Seeing my work credited in the release was a proper “wait, what?!” moment. 😭
 
-I also created [hard-eng](https://github.com/sgaabdu4/hard-eng), an open-source workflow that helps coding agents research, plan, build, review and ship. Yes, I built a whole engineering process because my AI and I kept disagreeing on what “finished” means. 🤖
+I also created [hard-eng](https://github.com/sgaabdu4/hard-eng), an open-source workflow that helps coding agents research, plan, build, review and ship. Turns out I enjoy building a system for the robots almost as much as I enjoy building the actual app. 🤖
 
-I like building things that keep helping people. I think of that as digital Sadaqah. 💙
+I like making things that keep helping people. I think of that as digital Sadaqah. 💙
 
 ## More open source
 
