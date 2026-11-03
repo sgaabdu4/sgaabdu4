@@ -1,27 +1,21 @@
 # Hi, I'm Abid 👋
 
-I'm a technical leader and hands-on engineer building dependable products across mobile, AI and the web.
+I'm a Forward Deployed Engineer and Senior Manager at PwC UK, building with AI after years in mobile engineering and cybersecurity.
 
-I work at Hedgehog Lab as a Senior Mobile & Agentic Engineer and lead [Afenso](https://afenso.com), where I take products from early ideas through architecture, development and delivery.
+I built an Appwrite MCP wrapper that helped inspire Appwrite's MCP Server 2.0. Still a bit surreal seeing something I made turn up in an official release. 😭
 
-## Open source
+I also created [hard-eng](https://github.com/sgaabdu4/hard-eng), an open-source workflow that helps coding agents research, plan, build, review and ship. Yes, I built a whole engineering process because my AI and I kept disagreeing on what “finished” means. 🤖
 
-- [hard-eng](https://github.com/sgaabdu4/hard-eng)  
-  A structured workflow that keeps AI-assisted engineering tied to clear intent, evidence and delivery.
+I like building things that keep helping people. I think of that as digital Sadaqah. 💙
 
-- [appwrite-backend](https://github.com/sgaabdu4/appwrite-backend)  
-  Practical tools and guidance for building and operating Appwrite backends.
+## More open source
 
-- [building-flutter-apps](https://github.com/sgaabdu4/building-flutter-apps)  
-  Patterns and guidance for maintainable Flutter applications.
+- [appwrite-backend](https://github.com/sgaabdu4/appwrite-backend): Tools and guidance for Appwrite backends.
+- [building-flutter-apps](https://github.com/sgaabdu4/building-flutter-apps): Patterns and guidance for Flutter apps.
+- [dart-decimate](https://github.com/sgaabdu4/dart-decimate): Tooling for Dart and Flutter developers.
+- [vault_storage](https://github.com/sgaabdu4/vault_storage): A storage API for Flutter apps.
 
-- [dart-decimate](https://github.com/sgaabdu4/dart-decimate)  
-  Tooling for Dart and Flutter developers.
-
-- [vault_storage](https://github.com/sgaabdu4/vault_storage)  
-  A consistent storage API for Flutter applications.
-
-## Main technologies
+## Technologies
 
 `Flutter` · `Dart` · `Python` · `TypeScript` · `Next.js` · `Appwrite` · `Firebase` · `GCP`
 
